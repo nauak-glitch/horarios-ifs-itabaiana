@@ -2,7 +2,7 @@
 // CONFIGURAÇÃO
 // ==========================================================
 // Substitua pela URL gerada no Google Apps Script (Executável)
-const URL_DA_API = "https://script.google.com/macros/s/AKfycbycRSW8--vZv-CiEqPQQ3VeLrCXpG3IuYCLm2BUN6s2DnKTMcj4_AU7sIqKvTaoiDhb/exec"; 
+const URL_DA_API = "https://script.google.com/macros/s/AKfycbxdxxDMoMAKoo1eSySiKp9Mi-pvAq0_vMt7cukYX4LUzXr2gCc69FgDkSxHwIbwE6S1/exec"; 
 
 // Estrutura de Horários Fixa (Baseado no PDF)
 const HORARIOS = [
@@ -345,3 +345,4 @@ function carregarTema() {
     }
 
 }
+
