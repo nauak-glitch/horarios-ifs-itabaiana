@@ -17,6 +17,7 @@ const HORARIOS = [
     { label: "14:40 - 15:30", id: "14:40" },
     { label: "15:40 - 16:30", id: "15:40" },
     { label: "16:30 - 17:20", id: "16:30" },
+    { label: "17:20 - 18:10", id: "17:20" },
     { label: "JANTAR", id: "jantar", type: "break" }, // Intervalo
     { label: "18:50 - 19:40", id: "18:50" },
     { label: "19:40 - 20:30", id: "19:40" },
@@ -345,5 +346,6 @@ function carregarTema() {
     }
 
 }
+
 
 
